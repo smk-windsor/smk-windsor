@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-### Full Stack Web & Mobile Developer, a highly motivated, result-oriented individual, willing to go an extra mile to reach goals and learn along the way.
+### Full Stack Web & Mobile Developer with 5 years of extensive experience in front-end and back-end development, specializing in building responsive, visually engaging user interfaces and scalable applications. Highly motivated and results-oriented, I am committed to delivering high-quality solutions that meet and exceed client expectations. With expertise in modern JavaScript frameworks like React.js and React Native, I create seamless user experiences across web and mobile platforms.
+
+### Proficient in Redux for state management, TypeScript for robust code quality, and SCSS for styling, I ensure optimized performance in every project. Skilled in Next.js for server-side rendering and AWS Amplify for building scalable applications, I also have a solid grasp of both SQL and NoSQL databases, including PostgreSQL, MySQL, and MongoDB. My experience extends to deploying applications through CI/CD pipelines and using tools like Git, Jira, and GraphQL. Additionally, I am experienced with Python, Node.js, Firebase, and Lambda functions for backend services.
+
+### Known for my excellent communication skills and ability to work both independently and collaboratively, I bring a user-first approach to design and a dedication to continuous learning. Whether working on ambitious startup projects or established platforms, I am committed to delivering impactful and scalable solutions.
 
 **Languages**
 
